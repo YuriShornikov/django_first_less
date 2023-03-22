@@ -9,3 +9,4 @@
 #python manage.py migrate - чтобы вступили в силу изменения
 #python manage.py createsuperuser создание админки
 #admin dbonlyfun@gmail.com Irregularlydgango
+# views     models       urls     templates
